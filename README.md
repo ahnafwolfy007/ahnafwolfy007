@@ -99,9 +99,7 @@ I'm **Ahnaf Atique**, a final-year CS undergrad at **United International Univer
 <br/>
 
 <!-- ========== TROPHIES ========== -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahnafwolfy007&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
-</div>
+
 
 <br/>
 
