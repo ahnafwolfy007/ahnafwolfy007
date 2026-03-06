@@ -85,15 +85,15 @@ I'm **Ahnaf Atique**, a final-year CS undergrad at **United International Univer
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahnafwolfy007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=7928ca&text_color=a8b2d1&ring_color=00d2ff" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahnafwolfy007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=7928ca&text_color=a8b2d1&ring_color=00d2ff&cache_seconds=1800" alt="GitHub Stats"/>
   &nbsp;
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahnafwolfy007&theme=tokyonight&hide_border=true&background=0d1117&ring=00d2ff&fire=7928ca&currStreakLabel=00d2ff&sideLabels=a8b2d1&dates=a8b2d1&stroke=a8b2d1" alt="GitHub Streak"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=ahnafwolfy007&theme=tokyonight&hide_border=true&background=0d1117&ring=00d2ff&fire=7928ca&currStreakLabel=00d2ff&sideLabels=a8b2d1&dates=a8b2d1&stroke=a8b2d1" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnafwolfy007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=a8b2d1&langs_count=8" alt="Top Languages"/>
+  <img width="42%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahnafwolfy007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=a8b2d1&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
 </div>
 
 <br/>
@@ -123,23 +123,23 @@ I'm **Ahnaf Atique**, a final-year CS undergrad at **United International Univer
 <table>
   <tr>
     <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/-Machine%20Learning-00d2ff?style=for-the-badge&logoColor=white" alt="ML"/><br/>
+      <img src="https://img.shields.io/badge/-Machine%20Learning-00d2ff?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="ML"/><br/>
       <sub><b>Predictive Modeling</b></sub>
     </td>
     <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/-Deep%20Learning-7928ca?style=for-the-badge&logoColor=white" alt="DL"/><br/>
+      <img src="https://img.shields.io/badge/-Deep%20Learning-7928ca?style=for-the-badge&logo=pytorch&logoColor=white" alt="DL"/><br/>
       <sub><b>Neural Architectures</b></sub>
     </td>
     <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/-Explainable%20AI-FF6F61?style=for-the-badge&logoColor=white" alt="XAI"/><br/>
+      <img src="https://img.shields.io/badge/-Explainable%20AI-FF6F61?style=for-the-badge&logo=openai&logoColor=white" alt="XAI"/><br/>
       <sub><b>Interpretable Models</b></sub>
     </td>
     <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/-HCI-FFD700?style=for-the-badge&logoColor=black" alt="HCI"/><br/>
+      <img src="https://img.shields.io/badge/-HCI-FFD700?style=for-the-badge&logo=figma&logoColor=black" alt="HCI"/><br/>
       <sub><b>Interaction Design</b></sub>
     </td>
     <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/-Bioinformatics-2ECC71?style=for-the-badge&logoColor=white" alt="BioInfo"/><br/>
+      <img src="https://img.shields.io/badge/-Bioinformatics-2ECC71?style=for-the-badge&logo=dna&logoColor=white" alt="BioInfo"/><br/>
       <sub><b>Computational Biology</b></sub>
     </td>
   </tr>
@@ -215,7 +215,7 @@ I'm **Ahnaf Atique**, a final-year CS undergrad at **United International Univer
 ## 🎧 Now Playing
 <div align="center">
   <a href="https://open.spotify.com/user/31fys7nzlzp3ien2lnllbznvqz7m">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fys7nzlzp3ien2lnllbznvqz7m&cover_image=true&theme=novatorem&bar_color=00d2ff" alt="Spotify"/>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31fys7nzlzp3ien2lnllbznvqz7m&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00d2ff" alt="Spotify"/>
   </a>
 </div>
 
