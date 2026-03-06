@@ -120,18 +120,30 @@ I'm **Ahnaf Atique**, a final-year CS undergrad at **United International Univer
 
 <div align="center">
 
-```
- ╔══════════════════════════════════════════════════════════════════╗
- ║                                                                  ║
- ║   🧠  Machine Learning        ──────►  Predictive Modeling       ║
- ║   🤖  Deep Learning           ──────►  Neural Architectures      ║
- ║   �  Explainable AI (XAI)    ──────►  Interpretable Models      ║
- ║   �🖥️  Human-Computer          ──────►  Interaction Design        ║
- ║       Interaction                                                ║
- ║   🧬  Bioinformatics          ──────►  Computational Biology     ║
- ║                                                                  ║
- ╚══════════════════════════════════════════════════════════════════╝
-```
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/-Machine%20Learning-00d2ff?style=for-the-badge&logoColor=white" alt="ML"/><br/>
+      <sub><b>Predictive Modeling</b></sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/-Deep%20Learning-7928ca?style=for-the-badge&logoColor=white" alt="DL"/><br/>
+      <sub><b>Neural Architectures</b></sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/-Explainable%20AI-FF6F61?style=for-the-badge&logoColor=white" alt="XAI"/><br/>
+      <sub><b>Interpretable Models</b></sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/-HCI-FFD700?style=for-the-badge&logoColor=black" alt="HCI"/><br/>
+      <sub><b>Interaction Design</b></sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/-Bioinformatics-2ECC71?style=for-the-badge&logoColor=white" alt="BioInfo"/><br/>
+      <sub><b>Computational Biology</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -144,12 +156,10 @@ I'm **Ahnaf Atique**, a final-year CS undergrad at **United International Univer
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://media.giphy.com/media/3oKIPnAiaMCJ8dO8Zu/giphy.gif" width="80"/><br/>
         <b>🏅 Microprocessor Project Show</b><br/>
         <sub>Prize Winner — Hardware meets Innovation</sub>
       </td>
       <td align="center" width="50%">
-        <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="80"/><br/>
         <b>🧑‍🏫 Undergraduate Teaching Assistant</b><br/>
         <sub>Guiding the next generation @ UIU</sub>
       </td>
@@ -160,6 +170,14 @@ I'm **Ahnaf Atique**, a final-year CS undergrad at **United International Univer
 <br/>
 
 <!-- ========== SNAKE ANIMATION ========== -->
+<!-- 
+  To enable the snake animation:
+  1. Create repo "ahnafwolfy007" (same as your username)
+  2. Add .github/workflows/snake.yml (see bottom comment)
+  3. Run the workflow once manually
+  4. Then uncomment the block below:
+-->
+<!--
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahnafwolfy007/ahnafwolfy007/output/github-snake-dark.svg" />
@@ -167,6 +185,7 @@ I'm **Ahnaf Atique**, a final-year CS undergrad at **United International Univer
     <img alt="github-snake" src="https://raw.githubusercontent.com/ahnafwolfy007/ahnafwolfy007/output/github-snake-dark.svg" />
   </picture>
 </div>
+-->
 
 <br/>
 
@@ -192,16 +211,13 @@ I'm **Ahnaf Atique**, a final-year CS undergrad at **United International Univer
 
 <br/>
 
-<!-- ========== SPOTIFY / NOW PLAYING (Optional) ========== -->
-<!-- Uncomment below if you set up spotify-github-profile -->
-<!--
+<!-- ========== SPOTIFY / NOW PLAYING ========== -->
 ## 🎧 Now Playing
 <div align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=00d2ff" alt="Spotify"/>
+  <a href="https://open.spotify.com/user/31fys7nzlzp3ien2lnllbznvqz7m">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fys7nzlzp3ien2lnllbznvqz7m&cover_image=true&theme=novatorem&bar_color=00d2ff" alt="Spotify"/>
   </a>
 </div>
--->
 
 <!-- ========== SUPPORT ========== -->
 <div align="center">
