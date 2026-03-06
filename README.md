@@ -217,7 +217,7 @@ I'm **Ahnaf Atique**, a final-year CS undergrad at **United International Univer
 ## 🎧 Now Playing
 <div align="center">
   <a href="https://open.spotify.com/user/31fys7nzlzp3ien2lnllbznvqz7m">
-    <img src="https://img.icons8.com/?size=100&id=11116&format=png&color=000000" alt="Spotify"/>
+    <img src="https://img.icons8.com/?size=100&id=11116&format=png&color=1DB954" alt="Spotify"/>
   </a>
 </div>
 
