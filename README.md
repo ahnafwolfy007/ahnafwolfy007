@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%8E%93+Final+Year+%40+United+International+University;%F0%9F%94%AC+Bioinformatics+Thesis+Researcher;%F0%9F%A7%AA+Exploring+ML+%E2%80%A2+DL+%E2%80%A2+XAI+%E2%80%A2+HCI+%E2%80%A2+BioInfo" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00d2ff&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=ahnafwolfy007&style=for-the-badge&color=00d2ff&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -18,55 +18,19 @@
 <!-- ========== ABOUT ME ========== -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp;About Me
 
-```yaml
-name: "Ahnaf Atique"
-located_in: "Bangladesh 🇧🇩"
-university: "United International University (UIU)"
-current_role: "Undergraduate Teaching Assistant"
-thesis: "Bioinformatics (Undergrad Thesis)"
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220"/>
 
-career_goal: "Academia — Teaching & Research 🎓"
+I'm **Ahnaf Atique**, a final-year CS undergrad at **United International University (UIU)** 🇧🇩, passionate about pushing the boundaries of research and education.
 
-research_interests:
-  - "Machine Learning (ML)"
-  - "Deep Learning (DL)"
-  - "Explainable AI (XAI)"
-  - "Human-Computer Interaction (HCI)"
-  - "Bioinformatics"
+- 🔬 &nbsp;Working on my **Undergrad Thesis in Bioinformatics**
+- 🧑‍🏫 &nbsp;Currently an **Undergraduate Teaching Assistant** @ UIU
+- 🎯 &nbsp;Career goal: **Academia — Teaching & Research**
+- 🧠 &nbsp;Research interests: **ML · DL · XAI · HCI · Bioinformatics**
+- 🏆 &nbsp;**Microprocessor Project Show** — Prize Winner
+- 💬 &nbsp;Ask me about **Research, IoT, Web Dev, ML/DL, XAI**
+- ⚡ &nbsp;Fun fact: *I debug code like I debug life — one breakpoint at a time* 🐛
 
-achievements:
-  - "🏆 Microprocessor Project Show — Prize Winner"
-
-fun_fact: "I debug code like I debug life — one breakpoint at a time 🐛"
-```
-
-<br/>
-
-<!-- ========== WHAT I'M UP TO ========== -->
-<div align="center">
-  <table>
-    <tr>
-      <td>🔬 Currently working on</td>
-      <td><b>Undergrad Thesis in Bioinformatics</b></td>
-    </tr>
-    <tr>
-      <td>🎓 Aspiring to be</td>
-      <td><b>An Academic Researcher & Educator</b></td>
-    </tr>
-    <tr>
-      <td>🧑‍🏫 Currently serving as</td>
-      <td><b>Undergraduate Teaching Assistant @ UIU</b></td>
-    </tr>
-    <tr>
-      <td>📚 Exploring</td>
-      <td><b>ML · DL · XAI · HCI · Bioinformatics</b></td>
-    </tr>
-    <tr>
-      <td>💬 Ask me about</td>
-      <td><b>Research, IoT, Web Dev, ML/DL, XAI</b></td>
-    </tr>
-  </table>
-</div>
+<br clear="both"/>
 
 <br/>
 
@@ -121,29 +85,29 @@ fun_fact: "I debug code like I debug life — one breakpoint at a time 🐛"
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=7928ca&text_color=a8b2d1&ring_color=00d2ff" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahnafwolfy007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=7928ca&text_color=a8b2d1&ring_color=00d2ff" alt="GitHub Stats"/>
   &nbsp;
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00d2ff&fire=7928ca&currStreakLabel=00d2ff&sideLabels=a8b2d1&dates=a8b2d1&stroke=a8b2d1" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahnafwolfy007&theme=tokyonight&hide_border=true&background=0d1117&ring=00d2ff&fire=7928ca&currStreakLabel=00d2ff&sideLabels=a8b2d1&dates=a8b2d1&stroke=a8b2d1" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=a8b2d1&langs_count=8" alt="Top Languages"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnafwolfy007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=a8b2d1&langs_count=8" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <!-- ========== TROPHIES ========== -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ahnafwolfy007&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
 </div>
 
 <br/>
 
 <!-- ========== ACTIVITY GRAPH ========== -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=00d2ff&line=7928ca&point=00d2ff&area=true&area_color=7928ca&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahnafwolfy007&bg_color=0d1117&color=00d2ff&line=7928ca&point=00d2ff&area=true&area_color=7928ca&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
 </div>
 
 <br/>
@@ -198,9 +162,9 @@ fun_fact: "I debug code like I debug life — one breakpoint at a time 🐛"
 <!-- ========== SNAKE ANIMATION ========== -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahnafwolfy007/ahnafwolfy007/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahnafwolfy007/ahnafwolfy007/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ahnafwolfy007/ahnafwolfy007/output/github-snake-dark.svg" />
   </picture>
 </div>
 
@@ -211,11 +175,11 @@ fun_fact: "I debug code like I debug life — one breakpoint at a time 🐛"
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahnaf-atique-9a485b380)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahnafatique711@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_ID)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/YOUR_PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahnafwolfy007)
 
 </div>
 
@@ -252,46 +216,46 @@ fun_fact: "I debug code like I debug life — one breakpoint at a time 🐛"
 
 <!-- 
 ╔══════════════════════════════════════════════════════════╗
-║  📝 SETUP INSTRUCTIONS — DELETE THIS BLOCK AFTER SETUP  ║
+║  📝 REMAINING SETUP                                      ║
 ╠══════════════════════════════════════════════════════════╣
 ║                                                          ║
-║  1. Replace ALL instances of:                            ║
-║     • YOUR_GITHUB_USERNAME → your GitHub username        ║
-║     • [Your Name]          → ✅ Done (Ahnaf Atique)      ║
-║     • YOUR_LINKEDIN        → your LinkedIn username      ║
-║     • YOUR_EMAIL           → your email address          ║
-║     • YOUR_ID / YOUR_PROFILE → scholar/RG IDs            ║
+║  ✅ GitHub Username  → ahnafwolfy007                     ║
+║  ✅ Name             → Ahnaf Atique                      ║
+║  ✅ LinkedIn          → ahnaf-atique-9a485b380           ║
+║  ✅ Email             → ahnafatique711@gmail.com         ║
 ║                                                          ║
-║  2. SNAKE ANIMATION (optional):                          ║
-║     Create a GitHub Action in your profile repo:         ║
-║     .github/workflows/snake.yml with:                    ║
-║     ─────────────────────────────────────────────        ║
-║     name: Generate Snake                                 ║
-║     on:                                                  ║
-║       schedule:                                          ║
-║         - cron: "0 */12 * * *"                           ║
-║       workflow_dispatch:                                  ║
-║     jobs:                                                ║
-║       build:                                             ║
-║         runs-on: ubuntu-latest                           ║
-║         steps:                                           ║
-║           - uses: Platane/snk@v3                         ║
-║             with:                                        ║
-║               github_user_name: YOUR_GITHUB_USERNAME     ║
-║               outputs: |                                 ║
-║                 dist/github-snake.svg                    ║
-║                 dist/github-snake-dark.svg?palette=      ║
-║                 github-dark                              ║
-║           - uses: crazy-max/ghaction-github-pages@v3.1.0 ║
-║             with:                                        ║
-║               target_branch: output                      ║
-║               build_dir: dist                            ║
-║             env:                                         ║
-║               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  ║
-║     ─────────────────────────────────────────────        ║
+║  ⬜ Google Scholar ID → replace YOUR_ID if you have one  ║
+║  ⬜ ResearchGate      → replace YOUR_PROFILE if you have ║
 ║                                                          ║
-║  3. Create this file as README.md in a repo named        ║
-║     exactly the same as your GitHub username.            ║
+║  SNAKE ANIMATION (optional):                             ║
+║  Create .github/workflows/snake.yml in your profile repo ║
+║  with the following content:                             ║
+║                                                          ║
+║  name: Generate Snake                                    ║
+║  on:                                                     ║
+║    schedule:                                             ║
+║      - cron: "0 */12 * * *"                              ║
+║    workflow_dispatch:                                     ║
+║  jobs:                                                   ║
+║    build:                                                ║
+║      runs-on: ubuntu-latest                              ║
+║      steps:                                              ║
+║        - uses: Platane/snk@v3                            ║
+║          with:                                           ║
+║            github_user_name: ahnafwolfy007               ║
+║            outputs: |                                    ║
+║              dist/github-snake.svg                       ║
+║              dist/github-snake-dark.svg?palette=         ║
+║              github-dark                                 ║
+║        - uses: crazy-max/ghaction-github-pages@v3.1.0    ║
+║          with:                                           ║
+║            target_branch: output                         ║
+║            build_dir: dist                               ║
+║          env:                                            ║
+║            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}     ║
+║                                                          ║
+║  Push as README.md in repo: ahnafwolfy007                ║
+║  Delete this comment block when done!                    ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 -->
