@@ -117,6 +117,45 @@ I'm **Ahnaf Atique**, a final-year CS undergrad at **United International Univer
 <!-- ========== WAVE DIVIDER ========== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
+<!-- ========== TOP PROJECTS ========== -->
+## 🚀 Top Projects
+
+<div align="center">
+
+### 💻 Software
+<a href="https://github.com/ahnafwolfy007/EduSync">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ahnafwolfy007&repo=EduSync&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=7928ca&text_color=a8b2d1" alt="EduSync"/>
+</a>
+&nbsp;
+<a href="https://github.com/ahnafwolfy007/PillTrack">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ahnafwolfy007&repo=PillTrack&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=7928ca&text_color=a8b2d1" alt="PillTrack"/>
+</a>
+
+### 🔌 Embedded System
+<a href="https://github.com/ahnafwolfy007/Mr.Bin">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ahnafwolfy007&repo=Mr.Bin&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=7928ca&text_color=a8b2d1" alt="Mr.Bin"/>
+</a>
+
+### 🔬 Research
+<a href="https://github.com/ahnafwolfy007/POCD-KansformerEPI">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ahnafwolfy007&repo=POCD-KansformerEPI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=7928ca&text_color=a8b2d1" alt="POCD-KansformerEPI"/>
+</a>
+&nbsp;
+<a href="https://github.com/ahnafwolfy007/DiaFact">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ahnafwolfy007&repo=DiaFact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=7928ca&text_color=a8b2d1" alt="DiaFact"/>
+</a>
+
+<a href="https://github.com/ahnafwolfy007/Holo-GNN">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ahnafwolfy007&repo=Holo-GNN&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=7928ca&text_color=a8b2d1" alt="Holo-GNN"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ========== WAVE DIVIDER ========== -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 <!-- ========== RESEARCH INTERESTS ========== -->
 ## 🔬 Research Interests
 
