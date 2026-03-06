@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%8E%93+Final+Year+%40+United+International+University;%F0%9F%A7%AA+Exploring+ML+%E2%80%A2+DL+%E2%80%A2+XAI+%E2%80%A2+HCI+%E2%80%A2+BioInfo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%8E%93+Final+Year+%40+United+International+University;%F0%9F%A7%AA+Exploring+ML+%E2%80%A2+DL+%E2%80%A2+XAI+%E2%80%A2+HCI+%E2%80%A2+BioInformatics" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=ahnafwolfy007&style=for-the-badge&color=00d2ff&label=PROFILE+VIEWS" alt="Profile Views"/>
@@ -217,7 +217,7 @@ I'm **Ahnaf Atique**, a final-year CS undergrad at **United International Univer
 ## 🎧 Now Playing
 <div align="center">
   <a href="https://open.spotify.com/user/31fys7nzlzp3ien2lnllbznvqz7m">
-    <img src="https://img.icons8.com/?size=100&id=11116&format=png&color=000000" alt="Spotify"/>
+    <img src="https://img.icons8.com/?size=100&id=6707&format=png&color=000000" alt="Spotify"/>
   </a>
 </div>
 
