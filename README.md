@@ -103,10 +103,7 @@ I'm **Ahnaf Atique**, a final-year CS undergrad at **United International Univer
 
 <br/>
 
-<!-- ========== TROPHIES ========== -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahnafwolfy007&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
-</div>
+
 
 <br/>
 
@@ -220,7 +217,7 @@ I'm **Ahnaf Atique**, a final-year CS undergrad at **United International Univer
 ## 🎧 Now Playing
 <div align="center">
   <a href="https://open.spotify.com/user/31fys7nzlzp3ien2lnllbznvqz7m">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31fys7nzlzp3ien2lnllbznvqz7m&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00d2ff" alt="Spotify"/>
+    <img src="https://img.icons8.com/?size=100&id=11116&format=png&color=000000" alt="Spotify"/>
   </a>
 </div>
 
