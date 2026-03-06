@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%8E%93+Final+Year+%40+United+International+University;%F0%9F%94%AC+Bioinformatics+Thesis+Researcher;%F0%9F%A7%AA+Exploring+ML+%E2%80%A2+DL+%E2%80%A2+XAI+%E2%80%A2+HCI+%E2%80%A2+BioInfo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%8E%93+Final+Year+%40+United+International+University;%F0%9F%A7%AA+Exploring+ML+%E2%80%A2+DL+%E2%80%A2+XAI+%E2%80%A2+HCI+%E2%80%A2+BioInfo" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=ahnafwolfy007&style=for-the-badge&color=00d2ff&label=PROFILE+VIEWS" alt="Profile Views"/>
@@ -56,6 +56,11 @@ I'm **Ahnaf Atique**, a final-year CS undergrad at **United International Univer
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
+### 🤖 Machine Learning
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -99,7 +104,9 @@ I'm **Ahnaf Atique**, a final-year CS undergrad at **United International Univer
 <br/>
 
 <!-- ========== TROPHIES ========== -->
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahnafwolfy007&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+</div>
 
 <br/>
 
