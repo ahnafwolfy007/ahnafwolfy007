@@ -1,7 +1,7 @@
 <!-- ========== ANIMATED HEADER ========== -->
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d2ff,100:7928ca&height=230&section=header&text=Hey%20There!%20I'm%20%5BYour%20Name%5D%20👋&fontSize=36&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Researcher%20%7C%20Educator%20%7C%20Developer&descSize=18&descAlignY=55&descColor=a8b2d1)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d2ff,100:7928ca&height=230&section=header&text=Hey%20There!%20I'm%20Ahnaf%20Atique%20👋&fontSize=36&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Researcher%20%7C%20Educator%20%7C%20Developer&descSize=18&descAlignY=55&descColor=a8b2d1)
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -19,7 +19,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp;About Me
 
 ```yaml
-name: "[Your Name]"
+name: "Ahnaf Atique"
 located_in: "Bangladesh 🇧🇩"
 university: "United International University (UIU)"
 current_role: "Undergraduate Teaching Assistant"
@@ -257,7 +257,7 @@ fun_fact: "I debug code like I debug life — one breakpoint at a time 🐛"
 ║                                                          ║
 ║  1. Replace ALL instances of:                            ║
 ║     • YOUR_GITHUB_USERNAME → your GitHub username        ║
-║     • [Your Name]          → your actual name            ║
+║     • [Your Name]          → ✅ Done (Ahnaf Atique)      ║
 ║     • YOUR_LINKEDIN        → your LinkedIn username      ║
 ║     • YOUR_EMAIL           → your email address          ║
 ║     • YOUR_ID / YOUR_PROFILE → scholar/RG IDs            ║
