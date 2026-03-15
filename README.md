@@ -131,10 +131,10 @@ I'm **Ahnaf Atique**, a final-year CS undergrad at **United International Univer
 
 <div align="center">
 
-### 🧑‍🏫 Teaching
+<!--### 🧑‍🏫 Teaching
 <a href="https://github.com/ahnafwolfy007/CSE-Teaching-Materials">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ahnafwolfy007&repo=CSE-Teaching-Materials&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=7928ca&text_color=a8b2d1" alt="CSE-Teaching-Materials"/>
-</a>
+</a>-->
 
 ### 💻 Software
 <a href="https://github.com/ahnafwolfy007/EduSync">
@@ -220,15 +220,10 @@ I'm **Ahnaf Atique**, a final-year CS undergrad at **United International Univer
       </td>
       <td align="center" width="33%">
         <b>🧑‍🏫 Undergraduate Teaching Assistant</b><br/>
-        <sub>SPL · Intro to CS · OOP · DSA · Microprocessor · DBMS</sub>
+        <sub>SPL · Intro to CS · OOP · DSA · Microprocessor</sub>
       </td>
     </tr>
-    <tr>
-      <td align="center" colspan="3">
-        <b>📋 Fresher's Coding Challenge 2025</b><br/>
-        <sub>Selected as Invigilator</sub>
-      </td>
-    </tr>
+   
   </table>
 </div>
 
