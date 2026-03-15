@@ -23,14 +23,23 @@
 I'm **Ahnaf Atique**, a final-year CS undergrad at **United International University (UIU)** 🇧🇩, passionate about pushing the boundaries of research and education.
 
 - 🔬 &nbsp;Working on my **Undergrad Thesis in Bioinformatics**
-- 🧑‍🏫 &nbsp;Currently an **Undergraduate Teaching Assistant** @ UIU
+- 🧑‍🏫 &nbsp;**Undergraduate Teaching Assistant (Part-time)** @ UIU since Nov 2024
+- 📚 &nbsp;Taught: **SPL, Intro to CS, OOP, DSA, Microprocessor, DBMS**
 - 🎯 &nbsp;Career goal: **Academia — Teaching & Research**
 - 🧠 &nbsp;Research interests: **ML · DL · XAI · HCI · Bioinformatics**
 - 🏆 &nbsp;**Microprocessor Project Show** — Prize Winner
+- 🎓 &nbsp;**Merit-Based Scholarship** every semester (100% x5, 50% x2, 25% x3)
 - 💬 &nbsp;Ask me about **Research, IoT, Web Dev, ML/DL, XAI**
 - ⚡ &nbsp;Fun fact: *I debug code like I debug life — one breakpoint at a time* 🐛
 
 <br clear="both"/>
+
+<div align="center">
+
+[![Download My CV](https://img.shields.io/badge/📄_Download_My_CV-00d2ff?style=for-the-badge&logoColor=white)](https://raw.githubusercontent.com/ahnafwolfy007/ahnafwolfy007/main/Ahnaf_Atique_CV(Present).pdf)
+[![Portfolio Website](https://img.shields.io/badge/🌐_Portfolio_Website-7928ca?style=for-the-badge&logoColor=white)](https://ahnafwolfy007.github.io)
+
+</div>
 
 <br/>
 
@@ -122,6 +131,11 @@ I'm **Ahnaf Atique**, a final-year CS undergrad at **United International Univer
 
 <div align="center">
 
+### 🧑‍🏫 Teaching
+<a href="https://github.com/ahnafwolfy007/CSE-Teaching-Materials">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ahnafwolfy007&repo=CSE-Teaching-Materials&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=7928ca&text_color=a8b2d1" alt="CSE-Teaching-Materials"/>
+</a>
+
 ### 💻 Software
 <a href="https://github.com/ahnafwolfy007/EduSync">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ahnafwolfy007&repo=EduSync&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=7928ca&text_color=a8b2d1" alt="EduSync"/>
@@ -196,13 +210,23 @@ I'm **Ahnaf Atique**, a final-year CS undergrad at **United International Univer
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
+      <td align="center" width="33%">
+        <b>🎓 Merit-Based Scholarship</b><br/>
+        <sub>Every semester — 100% (5x), 50% (2x), 25% (3x)</sub>
+      </td>
+      <td align="center" width="33%">
         <b>🏅 Microprocessor Project Show</b><br/>
         <sub>Prize Winner — Hardware meets Innovation</sub>
       </td>
-      <td align="center" width="50%">
+      <td align="center" width="33%">
         <b>🧑‍🏫 Undergraduate Teaching Assistant</b><br/>
-        <sub>Guiding the next generation @ UIU</sub>
+        <sub>SPL · Intro to CS · OOP · DSA · Microprocessor · DBMS</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="3">
+        <b>📋 Fresher's Coding Challenge 2025</b><br/>
+        <sub>Selected as Invigilator</sub>
       </td>
     </tr>
   </table>
